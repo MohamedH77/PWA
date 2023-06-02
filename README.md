@@ -13,23 +13,24 @@
 - [Credits](#credits)
 
 ## Description
-
--
+- JATE, just another text editor PWA to play around with.
 ## Installation
 
-- Run "npm i" to install all of the packages required to work with the project. then run "node start" to run a script to start the server, or run node app.js.
+- Run "npm i" to install all of the packages required to work with the project. then "npm start dev" to get it up and running on your localhost.
 
 ## Technologies Utilized
 
 - Node
 - Javascript
 - Express
-- mongoose
-- mongoDB
+- React
+- HTML
+- CSS
+
 
 
 ## Features
-- 
+- A working text editor that can save and load files from the local storage.
 ## Tests
 
 N/A
@@ -56,6 +57,7 @@ N/A
 
 ## Credits
 - Mohamed Mohamed
+- Gary Almes
 
 ## GitHub
 
